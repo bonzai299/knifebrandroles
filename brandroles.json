@@ -1,0 +1,292 @@
+[
+  {
+    "brand": "Benchmade",
+    "role_id": "1414336753778819096",
+    "keywords": [
+      "benchmade"
+    ]
+  },
+  {
+    "brand": "Borka Blades",
+    "role_id": "1414336760262950992",
+    "keywords": [
+      "borka blades",
+      "borka"
+    ]
+  },
+  {
+    "brand": "Brown Knives",
+    "role_id": "1414336765812015146",
+    "keywords": [
+      "brown knives",
+      "brown"
+    ]
+  },
+  {
+    "brand": "Chavez Knives",
+    "role_id": "1414336772363522190",
+    "keywords": [
+      "chavez"
+    ]
+  },
+  {
+    "brand": "Chris Reeve Knives",
+    "role_id": "1414336778713829537",
+    "keywords": [
+      "chris reeve",
+      "chris reeve knives",
+      "crk"
+    ]
+  },
+  {
+    "brand": "Custom Knife Factory",
+    "role_id": "1414336784690839785",
+    "keywords": [
+      "ckf"
+    ]
+  },
+  {
+    "brand": "David Mosier Knives",
+    "role_id": "1414336790768123984",
+    "keywords": [
+      "david mosier",
+      "mosier"
+    ]
+  },
+  {
+    "brand": "Demko Knives",
+    "role_id": "1414336796312993793",
+    "keywords": [
+      "demko knives",
+      "demko"
+    ]
+  },
+  {
+    "brand": "Emerson",
+    "role_id": "1414336802441138177",
+    "keywords": [
+      "emerson"
+    ]
+  },
+  {
+    "brand": "Eutsler Custom Knives",
+    "role_id": "1414336814780518522",
+    "keywords": [
+      "eutsler custom knives",
+      "eutsler"
+    ]
+  },
+  {
+    "brand": "Grimsmo",
+    "role_id": "1414336820631703622",
+    "keywords": [
+      "grimsmo"
+    ]
+  },
+  {
+    "brand": "Hawk Knives",
+    "role_id": "1414336826340282462",
+    "keywords": [
+      "hawk",
+      "g&g hawk"
+    ]
+  },
+  {
+    "brand": "Herman Knives",
+    "role_id": "1414336832304320556",
+    "keywords": [
+      "herman knives",
+      "herman"
+    ]
+  },
+  {
+    "brand": "Hinderer",
+    "role_id": "1414336838461821038",
+    "keywords": [
+      "hinderer"
+    ]
+  },
+  {
+    "brand": "HMC Knives",
+    "role_id": "1414336844296093962",
+    "keywords": [
+      "hmc"
+    ]
+  },
+  {
+    "brand": "Holt Bladeworks",
+    "role_id": "1414336850914443435",
+    "keywords": [
+      "holt"
+    ]
+  },
+  {
+    "brand": "Kansept",
+    "role_id": "1414336856639799296",
+    "keywords": [
+      "kansept"
+    ]
+  },
+  {
+    "brand": "Kizer",
+    "role_id": "1414336862570680350",
+    "keywords": [
+      "kizer"
+    ]
+  },
+  {
+    "brand": "Koenig",
+    "role_id": "1414336868534714482",
+    "keywords": [
+      "koenig"
+    ]
+  },
+  {
+    "brand": "Les George Knives",
+    "role_id": "1414336874633363569",
+    "keywords": [
+      "les george"
+    ]
+  },
+  {
+    "brand": "MachineWise",
+    "role_id": "1414336880610381865",
+    "keywords": [
+      "machinewize"
+    ]
+  },
+  {
+    "brand": "McNee's Knives",
+    "role_id": "1414336886494724136",
+    "keywords": [
+      "mcnees"
+    ]
+  },
+  {
+    "brand": "Medford Knife and Tool",
+    "role_id": "1414336892266217556",
+    "keywords": [
+      "medford",
+      "mkt"
+    ]
+  },
+  {
+    "brand": "Merriken",
+    "role_id": "1414336898163408949",
+    "keywords": [
+      "merriken"
+    ]
+  },
+  {
+    "brand": "Microtech",
+    "role_id": "1414336904219987978",
+    "keywords": [
+      "microtech"
+    ]
+  },
+  {
+    "brand": "Oz Machine Company",
+    "role_id": "1414336910167375982",
+    "keywords": [
+      "oz"
+    ]
+  },
+  {
+    "brand": "Peter Rassenti",
+    "role_id": "1414336916005851146",
+    "keywords": [
+      "rassenti"
+    ]
+  },
+  {
+    "brand": "Prince Customs",
+    "role_id": "1414336922083659911",
+    "keywords": [
+      "prince"
+    ]
+  },
+  {
+    "brand": "Pro-Tech",
+    "role_id": "1414336929301795099",
+    "keywords": [
+      "protech",
+      "pro tech"
+    ]
+  },
+  {
+    "brand": "Rockstead",
+    "role_id": "1414336935287062601",
+    "keywords": [
+      "rockstead"
+    ]
+  },
+  {
+    "brand": "Sharknivco",
+    "role_id": "1414336941490573384",
+    "keywords": [
+      "sharknivco"
+    ]
+  },
+  {
+    "brand": "Sharp By Design",
+    "role_id": "1414336947219861578",
+    "keywords": [
+      "sharp by design",
+      "sharpbydesign",
+      "sbd"
+    ]
+  },
+  {
+    "brand": "Shirogorov",
+    "role_id": "1414336954018828378",
+    "keywords": [
+      "shirogorov",
+      "shiro"
+    ]
+  },
+  {
+    "brand": "Spyderco",
+    "role_id": "1414336960247631943",
+    "keywords": [
+      "spyderco"
+    ]
+  },
+  {
+    "brand": "Strider",
+    "role_id": "1414336966308397118",
+    "keywords": [
+      "strider"
+    ]
+  },
+  {
+    "brand": "Vero Engineering",
+    "role_id": "1414336972758978592",
+    "keywords": [
+      "vero"
+    ]
+  },
+  {
+    "brand": "WE Knives",
+    "role_id": "1414336978819878954",
+    "keywords": [
+      "we knives",
+      "we"
+    ]
+  },
+  {
+    "brand": "Winter Blade Company",
+    "role_id": "1414336984717201538",
+    "keywords": [
+      "winter blade company",
+      "winter blade co"
+    ]
+  },
+  {
+    "brand": "Zero Tolerance",
+    "role_id": "1414336990354210847",
+    "keywords": [
+      "zero tolerance",
+      "ZT"
+    ]
+  }
+]
