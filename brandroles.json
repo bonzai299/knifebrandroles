@@ -288,8 +288,9 @@
       "zero tolerance",
       "ZT"
     ]
-  }
-  {"brand": "Unknown",
+  },
+  {
+    "brand": "Unknown",
     "role_id": "1414341868770295999",
     "keywords": [
       "unknown"
